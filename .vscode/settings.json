@@ -1,0 +1,7 @@
+{
+  "cucumber.features": ["cypress/e2e/cucumber/Tests/LoginTest.feature"],
+
+  "cucumber.glue": [
+    "cypress/e2e/cucumber/Tests/*/*.cy.js"
+  ]
+}
